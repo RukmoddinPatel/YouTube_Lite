@@ -1,0 +1,18 @@
+{
+  "name": "youtubelite",
+  "version": "1.0.0",
+  "description": "A backend in at ChaiAurCode Channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "backend",
+    "chai",
+    "Rukmoddin",
+    "patel"
+  ],
+  "author": "Rukmddin Patel",
+  "license": "ISC"
+}
